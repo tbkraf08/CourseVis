@@ -1,5 +1,6 @@
 {
    "name":"College of Computing & Informatics",
+   "root":"true",
    "children":[
    {
       "name":"Bioinformatics",
