@@ -1,0 +1,402 @@
+{
+    "ITIS 5156": {
+        "course": "5156",
+        "credits": [
+            "3"
+        ],
+        "dept": "ITIS",
+        "description": " consent of the department  structures for computer-oriented learning  Advantages/disadvantages/costs of CAI ",
+        "offered": [
+            "On demand"
+        ],
+        "prerequisites": [],
+        "title": "Computer Aided Instruction 3"
+    },
+    "ITIS 5160": {
+        "course": "5160",
+        "credits": [
+            "3"
+        ],
+        "dept": "ITIS",
+        "description": "u l l   g r a d u a t e   s t a n d i n g ,   o r   c o n s e n t   o f   d e p a r t m e n t .   I d e n t i f i c a t i o n      integration, and transaction control",
+        "offered": [
+            "Fall Evening"
+        ],
+        "prerequisites": [
+            "f"
+        ],
+        "title": "Applied Databases 3"
+    },
+    "ITIS 5166": {
+        "course": "5166",
+        "credits": [
+            "3"
+        ],
+        "dept": "ITIS",
+        "description": "u l l   g r a d u a t e   s t a n d i n g   o r   c o n s e n t   o f   t h e   d e p a r t m e n t .   T h i s   c o u r s e examines the issues related to network based application development   ",
+        "offered": [
+            "Evening"
+        ],
+        "prerequisites": [
+            "F"
+        ],
+        "title": "Network Based Application Development 3"
+    },
+    "ITIS 5220": {
+        "course": "5220",
+        "credits": [
+            "3"
+        ],
+        "dept": "ITIS",
+        "description": " Prerequisites consent of the Department  systems assurance    assurance levels   ethical considerations component",
+        "offered": [
+            "On demand"
+        ],
+        "prerequisites": "",
+        "title": "Vulnerability Assessment and System Assurance 3"
+    },
+    "ITIS 5250": {
+        "course": "5250",
+        "credits": [
+            "3"
+        ],
+        "dept": "ITIS",
+        "description": "n r o l l m e n t   i n   M . S .   I T   o r   C o n s e n t   o f   t h e   D e p a r t m e n t .   T h e  computer media for evidentiary purposes and/or root cause analysis    forensics; and the role of forensics in the digital environment",
+        "offered": [
+            "On demand"
+        ],
+        "prerequisites": [
+            "E"
+        ],
+        "title": "Computer Forensics 3"
+    },
+    "ITIS 6010": {
+        "course": "6010",
+        "credits": [
+            "3"
+        ],
+        "dept": "ITIS",
+        "description": "o n s e n t   o f   t h e   d e p a r t m e n t .   T o p i c s   i n   s o f t w a r e   a n d   i n f o r m a t i o n systems selected to supplement the regular course offerings fir credit as topics vary",
+        "offered": [
+            "On demand"
+        ],
+        "prerequisites": [
+            "c"
+        ],
+        "title": "Topics in Software and Information Systems 3"
+    },
+    "ITIS 6112": {
+        "course": "6112",
+        "credits": [
+            "3"
+        ],
+        "dept": "ITIS",
+        "description": "o n s e n t   o f   t h e   d e p a r t m e n t .   I n t r o d u c t i o n   t o   t h e   t e c h n i q u e s   i n v o l v e d in the planning and implementation of large software systems interface aspects of systems   software system ITCS 6112",
+        "offered": [
+            ""
+        ],
+        "prerequisites": [
+            "c"
+        ],
+        "title": "Software System Design and Implementation 3"
+    },
+    "ITIS 6130": {
+        "course": "6130",
+        "credits": [
+            "3"
+        ],
+        "dept": "ITIS",
+        "description": " Pre-requisite: Full graduate standing, or consent of the Department Introduction to requirement engineering methodologies     software engineering maturity model",
+        "offered": [
+            "On demand"
+        ],
+        "prerequisites": "",
+        "title": "Software Requirements Engineering for Information Systems 3"
+    },
+    "ITIS 6140": {
+        "course": "6140",
+        "credits": [
+            "3"
+        ],
+        "dept": "ITIS",
+        "description": "T I S   6 1 1 2   o r   c o n s e n t   o f   t h e   D e p a r t m e n t .   M e t h o d s   f o r   e v a l u a t i n g  proofs and testing methodologies  Formal and informal proofs of correctness Code inspections and their role in software verification testing techniques, testing tools and limitations of testing testing, reliability models  Software engineering maturity model",
+        "offered": [
+            "On demand"
+        ],
+        "prerequisites": [
+            "I"
+        ],
+        "title": "Software Testing and Quality Assurance 3"
+    },
+    "ITIS 6148": {
+        "course": "6148",
+        "credits": [
+            "3"
+        ],
+        "dept": "ITIS",
+        "description": "T I S   6 1 1 2 ,   o r   e q u i v a l e n t   c o u r s e s .   T h i s   c o u r s e   f o c u s e s   o n   i s s u e s  object-oriented systems frameworks, persistent and distributed objects, and object-oriented databases (Spring) (Alternate Years) This course is cross-listed with ITCS 6148",
+        "offered": [
+            ""
+        ],
+        "prerequisites": [
+            "I"
+        ],
+        "title": "Advanced Object Oriented Design and Implementation 3"
+    },
+    "ITIS 6162": {
+        "course": "6162",
+        "credits": [
+            "3"
+        ],
+        "dept": "ITIS",
+        "description": "T C S   6 1 6 0 ,   f u l l   g r a d u a t e   s t a n d i n g ,   o r   c o n s e n t   o f   t h e   d e p a r t m e n t . The entire knowledge discovery process is covered in this course   decision making C4 covered",
+        "offered": [
+            "Summer Evenings"
+        ],
+        "prerequisites": [
+            "I"
+        ],
+        "title": "Knowledge Discovery in Databases 3"
+    },
+    "ITIS 6163": {
+        "course": "6163",
+        "credits": [
+            "3"
+        ],
+        "dept": "ITIS",
+        "description": "T C S   6 1 6 0   o r   e q u i v a l e n t .   T o p i c s   i n c l u d e     transformation and knowledge extraction; relations with enterprise modeling demand) This course is cross-listed as ITCS 6163",
+        "offered": [
+            ""
+        ],
+        "prerequisites": [
+            "I"
+        ],
+        "title": "Data Warehousing 3"
+    },
+    "ITIS 6164": {
+        "course": "6164",
+        "credits": [
+            "3"
+        ],
+        "dept": "ITIS",
+        "description": "T C S   6 1 1 4   o r   c o n s e n t   o f   t h e   d e p a r t m e n t .   T h e   f u n d a m e n t a l   c o n c e p t s and philosophy of planning and implementing an online computer system   organization techniques, security requirements; resource allocation",
+        "offered": [
+            "On demand"
+        ],
+        "prerequisites": [
+            "I"
+        ],
+        "title": "Online Info Systems 3"
+    },
+    "ITIS 6167": {
+        "course": "6167",
+        "credits": [
+            "3"
+        ],
+        "dept": "ITIS",
+        "description": "T C S   6 2 0 0   o r   e q u i v a l e n t .   T h i s   c o u r s e   e x a m i n e s   t h e issues related network and information security   system interoperation and case studies of the current major security systems ",
+        "offered": [
+            "Fall Evening"
+        ],
+        "prerequisites": [
+            "I"
+        ],
+        "title": "Network and Information Security 3"
+    },
+    "ITIS 6177": {
+        "course": "6177",
+        "credits": [
+            "3"
+        ],
+        "dept": "ITIS",
+        "description": "T I S   5 1 6 6   a n d   I T I S   5 1 6 0 ,   o r   e q u i v a l e n t s .   T h i s   c o u r s e   e x a m i n e s   t h e issues related to system integration  system management",
+        "offered": [
+            "Fall Evening"
+        ],
+        "prerequisites": [
+            "I"
+        ],
+        "title": "System Integration 3"
+    },
+    "ITIS 6198": {
+        "course": "6198",
+        "credits": [
+            "3"
+        ],
+        "dept": "ITIS",
+        "description": "o n s e n t   o f   t h e   d e p a r t m e n t .   C o m p l e t e   a   t e a m - b a s e d   p r o j e c t   t h a t   i s originated from an IT organization and approved by the department",
+        "offered": [
+            ""
+        ],
+        "prerequisites": [
+            "c"
+        ],
+        "title": "IT Internship Project 3"
+    },
+    "ITIS 6200": {
+        "course": "6200",
+        "credits": [
+            "3"
+        ],
+        "dept": "ITIS",
+        "description": "o n s e n t   o f   t h e   d e p a r t m e n t .   T o p i c s   i n c l u d e   s e c u r i t y   c o n c e p t s   a n d    issues for information systems",
+        "offered": [
+            "Fall",
+            "Spring Evening"
+        ],
+        "prerequisites": [
+            "C"
+        ],
+        "title": "Principles of Information Security and Privacy 3"
+    },
+    "ITIS 6210": {
+        "course": "6210",
+        "credits": [
+            "3"
+        ],
+        "dept": "ITIS",
+        "description": "T I S   6 2 0 0 .   T h i s   c o u r s e   d i s c u s s e s   o b j e c t i v e s ,   f o r m a l   m o d e l s ,   a n d  (COTS) systems architectures and technologies for authorization   architectures",
+        "offered": [
+            "Spring Evening"
+        ],
+        "prerequisites": [
+            "I"
+        ],
+        "title": "Access Control and Security Architecture 3"
+    },
+    "ITIS 6230": {
+        "course": "6230",
+        "credits": [
+            "3"
+        ],
+        "dept": "ITIS",
+        "description": "T I S   6 2 0 0 .   T h i s   c o u r s e   d i s c u s s e s   m e t h o d o l o g i e s ,   t o o l s ,   a n d  information infrastructures   continuous operation and recovery from disasters",
+        "offered": [
+            "On Demand"
+        ],
+        "prerequisites": [
+            "I"
+        ],
+        "title": "Information Infrastructure Protection 3"
+    },
+    "ITIS 6240": {
+        "course": "6240",
+        "credits": [
+            "3"
+        ],
+        "dept": "ITIS",
+        "description": "u l l   g r a d u a t e   s t a n d i n g   o r   c o n s e n t   o f   t h e   d e p a r t m e n t .   T h i s   c o u r s e   implementation of security critical applications  advances in applied cryptography   recovery, public key infrastructures, and efficient implementation",
+        "offered": [
+            "On demand"
+        ],
+        "prerequisites": [
+            "F"
+        ],
+        "title": "Applied Cryptography 3"
+    },
+    "ITIS 6342": {
+        "course": "6342",
+        "credits": [
+            "3"
+        ],
+        "dept": "ITIS",
+        "description": "o n s e n t   o f   t h e   d e p a r t m e n t .   I n t r o d u c e   t h e   s t u d e n t   t o   p r o b l e m s   and project justification    project justification, funding and continuance",
+        "offered": [
+            "Spring"
+        ],
+        "prerequisites": [
+            "C"
+        ],
+        "title": "Information Technology Project Management 3"
+    },
+    "ITIS 6362": {
+        "course": "6362",
+        "credits": [
+            "3"
+        ],
+        "dept": "ITIS",
+        "description": "e r m i s s i o n   o f   d e p a r t m e n t .   M a n a g e m e n t   o f   I n f o r m a t i o n  Security  use and dissemination of information by professionals in the field",
+        "offered": [
+            "Fall"
+        ],
+        "prerequisites": [
+            "P"
+        ],
+        "title": "Information Technology Ethics Policy and Security 3"
+    },
+    "ITIS 6400": {
+        "course": "6400",
+        "credits": [
+            "3"
+        ],
+        "dept": "ITIS",
+        "description": "u l l   g r a d u a t e   s t a n d i n g ,   o r   p e r m i s s i o n   o f   d e p a r t m e n t .  research  people and their use of computing systems interface design, methods of design, and ways to evaluate and improve a design  topics in Human- Computer Interaction sociological/psychological, and information systems elements",
+        "offered": [
+            "Spring"
+        ],
+        "prerequisites": [
+            "F"
+        ],
+        "title": "Principles"
+    },
+    "ITIS 6410": {
+        "course": "6410",
+        "credits": [
+            "3"
+        ],
+        "dept": "ITIS",
+        "description": "u l l   g r a d u a t e   s t a n d i n g ,   o r   p e r m i s s i o n   o f   d e p a r t m e n t . Full graduate standing, or the consent of the department  techniques in information systems    deployed systems",
+        "offered": [
+            "On demand"
+        ],
+        "prerequisites": [
+            "F"
+        ],
+        "title": "[No Title Provided]"
+    },
+    "ITIS 6500": {
+        "course": "6500",
+        "credits": [
+            "3"
+        ],
+        "dept": "ITIS",
+        "description": "e r m i s s i o n   o f   t h e   I n s t r u c t o r .   M a n a g e m e n t   o f   I n f o r m a t i o n  Security  use and dissemination of information by professionals in the field",
+        "offered": [
+            "Fall"
+        ],
+        "prerequisites": [
+            "P"
+        ],
+        "title": "Complex"
+    },
+    "ITIS 6880": {
+        "course": "6880",
+        "credits": [
+            "3"
+        ],
+        "dept": "ITIS",
+        "description": "t   l e a s t   9   g r a d u a t e   I T C S / I T C S   h o u r s   a n d   c o n s e n t   o f   d e p a r t m e n t .   through research, reading, and individual projects  May be repeated for credit ",
+        "offered": [
+            "On demand"
+        ],
+        "prerequisites": [
+            "A"
+        ],
+        "title": "Individual Study 1 3"
+    },
+    "ITIS 6991": {
+        "course": "6991",
+        "credits": [
+            "3"
+        ],
+        "dept": "ITIS",
+        "description": "  of the department  Graduate thesis research of information technology chosen for thesis research credit but no more than six hours may be applied to the M S requirements",
+        "offered": [
+            "Fall",
+            "Spring",
+            "Summer"
+        ],
+        "prerequisites": "",
+        "title": "Information Technology Thesis 1 6 Prerequisite full"
+    }
+}

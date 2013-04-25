@@ -1,0 +1,1282 @@
+{
+    "ITCS 5120": {
+        "course": "5120",
+        "credits": [
+            "3"
+        ],
+        "dept": "ITCS",
+        "description": "Graphics hardware; raster algorithms; geometric transformations; 2D/3D interactive graphics; 3D viewing and perspective projections; color and lighting models; hidden surface removal; modeling hierarchies; fractals; curved surfaces",
+        "offered": [
+            "On demand"
+        ],
+        "prerequisites": [
+            "ITCS 2214",
+            "MATH 2164",
+            "consent of Department"
+        ],
+        "title": "Introduction to Computer Graphics"
+    },
+    "ITCS 5121": {
+        "course": "5121",
+        "credits": [
+            "3"
+        ],
+        "dept": "ITCS",
+        "description": "Information visualization concepts, theories, design principles, popular techniques, evaluation methods, and information visualization applications",
+        "offered": [
+            "Spring Evenings"
+        ],
+        "prerequisites": [
+            "graduate standing"
+        ],
+        "title": "Information Visualization"
+    },
+    "ITCS 5122": {
+        "course": "5122",
+        "credits": [
+            "3"
+        ],
+        "dept": "ITCS",
+        "description": "This course introduces the new field of visual analytics, which integrates interactive analytical methods and visualization   Topics include: critical thinking, visual reasoning, perception/cognition, statistical and other analysis techniques, principles of interaction, and applications",
+        "offered": [
+            "Fall Evenings"
+        ],
+        "prerequisites": [
+            "any of STAT 1220 1221 1222 2122",
+            "2223",
+            "approval of the instructor"
+        ],
+        "title": "Visual Analytics"
+    },
+    "ITCS 5123": {
+        "course": "5123",
+        "credits": [
+            "3"
+        ],
+        "dept": "ITCS",
+        "description": "Understanding the relatively technical field of visualization from the point of view of visual communication, this course draws connections with photography, design, illustration, aesthetics, and art  Both technical and theoretical aspects of the various fields are covered, and the connections between them are investigated",
+        "offered": [
+            "Spring Evenings"
+        ],
+        "prerequisites": [
+            "none"
+        ],
+        "title": "Visualization and Visual Communication"
+    },
+    "ITCS 5128": {
+        "course": "5128",
+        "credits": [
+            "3"
+        ],
+        "dept": "ITCS",
+        "description": "Introduction to the concepts and techniques used in describing, defining, and implementing programming languages and their compilers  Introduction to parsing and parser construction; LL and LR grammars; syntax directed translation; data object representations; run time structures; intermediate languages; code optimization",
+        "offered": [
+            "On demand"
+        ],
+        "prerequisites": [
+            "consent of the department"
+        ],
+        "title": "Programming Languages and Compilers"
+    },
+    "ITCS 5133": {
+        "course": "5133",
+        "credits": [
+            "3"
+        ],
+        "dept": "ITCS",
+        "description": "Introduction to principles and techniques behind numerical methods and algorithms that underlie modern scientific and engineering applications  Roots of equations; linear systems (direct methods, LU/QR factorization, iterative methods); Eigen values and vectors; Interpolation, Approximation; Numerical Differentiation/Integration, ODEs and PDEs  (On Demand)",
+        "offered": [
+            ""
+        ],
+        "prerequisites": [
+            "ITCS 2214",
+            "either MATH 1120",
+            "MATH 1241"
+        ],
+        "title": "Numerical Computation Methods and Analysis"
+    },
+    "ITCS 5141": {
+        "course": "5141",
+        "credits": [
+            "3"
+        ],
+        "dept": "ITCS",
+        "description": "Fundamentals of computer design; instruction set design, basic processor implementation techniques; pipelining; memory hierarchy; Input/Output  Cost/performance and hardware/software trade-offs",
+        "offered": [
+            "Fall",
+            "alternate years"
+        ],
+        "prerequisites": [
+            "ITCS 3181",
+            "equivalent"
+        ],
+        "title": "Computer Organization and Architecture"
+    },
+    "ITCS 5145": {
+        "course": "5145",
+        "credits": [
+            "3"
+        ],
+        "dept": "ITCS",
+        "description": "Types of parallel computers, programming techniques for multiprocessor and multicomputer systems, parallel strategies, algorithms, and languages",
+        "offered": [
+            "Spring"
+        ],
+        "prerequisites": [
+            "ITCS 1215",
+            "3182",
+            "consent of department"
+        ],
+        "title": "Parallel Computing"
+    },
+    "ITCS 5146": {
+        "course": "5146",
+        "credits": [
+            "3"
+        ],
+        "dept": "ITCS",
+        "description": "Grid computing software components, standards, web services, security mechanisms, schedulers and resource brokers, workflow editors, grid portals, grid computing applications",
+        "offered": [
+            "On demand"
+        ],
+        "prerequisites": [
+            "ITCS 1215",
+            "Graduate Standing"
+        ],
+        "title": "Grid Computing"
+    },
+    "ITCS 5152": {
+        "course": "5152",
+        "credits": [
+            "3"
+        ],
+        "dept": "ITCS",
+        "description": "General introduction to Computer Vision and its application  Topics include low-level vision, 2D and 3D segmentation, 2D description, 2D recognition, 3D description and model-based recognition, and interpretation",
+        "offered": [
+            "Spring",
+            "Odd years"
+        ],
+        "prerequisites": [
+            "ITCS 1215",
+            "MATH 2164",
+            "consent of the department"
+        ],
+        "title": "Computer Vision"
+    },
+    "ITCS 5157": {
+        "course": "5157",
+        "credits": [
+            "3"
+        ],
+        "dept": "ITCS",
+        "description": "History of CAI; study of current CAI systems; development of man-machine dialogue; programming tools for CAI; information structures for computer-oriented learning  Advantages/disadvantages/ costs of CAI",
+        "offered": [
+            "On demand"
+        ],
+        "prerequisites": [
+            "consent of the department"
+        ],
+        "title": "Computer Aided Instruction"
+    },
+    "ITCS 5180": {
+        "course": "5180",
+        "credits": [
+            "3"
+        ],
+        "dept": "ITCS",
+        "description": "Cross-listed as ITIS 4180  Mobile platforms are at the center of attention of users and organizations nowadays  Most organizations and businesses are rapidly migrating toward the cloud and need to provide a fast and easy mechanism for users to stay connected to their services  Mobile applications are the top trend nowadays given the high variety of new mobile devices and platforms such as Apple\u2019s iOS and Google\u2019s Android  In this course, students will be introduced to the foundations of mobile development and its unique requirements and constraints  Students will design and build a variety of mobile applications with a hands-on and project-based approach",
+        "offered": [
+            "On demand"
+        ],
+        "prerequisites": [
+            "Full graduate standing",
+            "permission of the department"
+        ],
+        "title": "Mobile Application Development"
+    },
+    "ITCS 5181": {
+        "course": "5181",
+        "credits": [
+            "3"
+        ],
+        "dept": "ITCS",
+        "description": "Signal conditioning, A/D conversion, noise, transmission line effects, signal processing, D/A conversion and serial/parallel interfaces",
+        "offered": [
+            "On demand"
+        ],
+        "prerequisites": [
+            "ITCS 3182",
+            "equivalent",
+            "permission of the department"
+        ],
+        "title": "Microcomputer Interfacing"
+    },
+    "ITCS 5230": {
+        "course": "5230",
+        "credits": [
+            "3"
+        ],
+        "dept": "ITCS",
+        "description": "Basic concepts and techniques for electronic game design and development  Topics include: game history and genres, game design teams and processes, what makes a game fun, level and model design, game scripting and programming including computer graphics and animation, artificial intelligence, industry issues, and gender and games  (Fall)",
+        "offered": [
+            ""
+        ],
+        "prerequisites": [
+            "Prerequisite"
+        ],
+        "title": "Introduction to Game Design and Development"
+    },
+    "ITCS 5231": {
+        "course": "5231",
+        "credits": [
+            "3"
+        ],
+        "dept": "ITCS",
+        "description": "Advanced concepts and techniques for electronic game design and development  This course is a project-centered course where students explore complex gameplay and interactivity  The course explores topics from the introductory course in more depth, such as: applying software engineering techniques to developing games, advanced game programming and scripting, networking, graphics, physics, audio, game data structures and algorithms, and artificial intelligence  (Spring)",
+        "offered": [
+            ""
+        ],
+        "prerequisites": [
+            "ITCS 5230"
+        ],
+        "title": "Advanced Game Design and Development"
+    },
+    "ITCS 5232": {
+        "course": "5232",
+        "credits": [
+            "3"
+        ],
+        "dept": "ITCS",
+        "description": "Application of advanced concepts and techniques for electronic game design and development  Teams will use engineering techniques to incorporate game programming and scripting, networking, graphics, physics, audio, game data structures and algorithms, and artificial intelligence into an electronic game  Individuals will develop a complete portfolio of prior work and the class project",
+        "offered": [
+            "Spring Evenings"
+        ],
+        "prerequisites": [
+            "ITCS 5120 ITCS 5231",
+            "consent of instructor"
+        ],
+        "title": "Game Design and Development Studio"
+    },
+    "ITCS 5235": {
+        "course": "5235",
+        "credits": [
+            "3"
+        ],
+        "dept": "ITCS",
+        "description": "Introduction to principles and techniques behind modern computer and console game engines  Graphics Rendering Pipeline (transformations, lighting ,shading); 2D/3D Texture Mapping; Image Based Rendering; Spatial Data Structures and Acceleration Algorithms; Level of Detail; Collision Detection, Culling and Intersection Methods; Vertex/Pixel Shaders; Pipeline Optimization; Rendering Hardware",
+        "offered": [
+            "on demand Evenings"
+        ],
+        "prerequisites": [
+            "ITCS 5120",
+            "Permission of Department"
+        ],
+        "title": "Game Engine Construction"
+    },
+    "ITCS 5236": {
+        "course": "5236",
+        "credits": [
+            "3"
+        ],
+        "dept": "ITCS",
+        "description": "",
+        "offered": [
+            "\u00a0"
+        ],
+        "prerequisites": [
+            "ITCS 6150",
+            "permission of instructor"
+        ],
+        "title": "Artificial Intelligence for Computer Games"
+    },
+    "ITCS 5237": {
+        "course": "5237",
+        "credits": [
+            "3"
+        ],
+        "dept": "ITCS",
+        "description": "Introduction to the principles and applications of audio (digital signal) processing focusing on entertainment domains  Topics include: analysis of signals, transforms, digital filter design techniques, audio engine development, file encoding/decoding, spatial sound rendering, optimization, and advanced audio techniques",
+        "offered": [
+            "on demand"
+        ],
+        "prerequisites": [
+            "MATH 1242 MATH 2164",
+            "ITCS 6114",
+            "equivalents"
+        ],
+        "title": "Audio Processing for Entertainment Computing"
+    },
+    "ITCS 6010": {
+        "course": "6010",
+        "credits": [
+            "3"
+        ],
+        "dept": "ITCS",
+        "description": "Topics in computer science selected to supplement the regular course offerings  A student may register for multiple sections of the course with different topics in the same semester or in different semesters",
+        "offered": [
+            "On demand"
+        ],
+        "prerequisites": [
+            "consent of the department"
+        ],
+        "title": "Topics in Computer Science"
+    },
+    "ITCS 6050": {
+        "course": "6050",
+        "credits": [
+            "3"
+        ],
+        "dept": "ITCS",
+        "description": "Topics in intelligent systems selected to supplement the regular course offerings  May be repeated for credit as topics vary",
+        "offered": [
+            "On demand"
+        ],
+        "prerequisites": [
+            "consent of the department"
+        ],
+        "title": "Topics in Intelligent Systems"
+    },
+    "ITCS 6080": {
+        "course": "6080",
+        "credits": [
+            "3"
+        ],
+        "dept": "ITCS",
+        "description": "Topics in computer engineering selected to supplement the regular course offerings  May be repeated for credit as topics vary",
+        "offered": [
+            "On demand"
+        ],
+        "prerequisites": [
+            "consent of the department"
+        ],
+        "title": "Topics in Computer Engineering"
+    },
+    "ITCS 6107": {
+        "course": "6107",
+        "credits": [
+            "3"
+        ],
+        "dept": "ITCS",
+        "description": "Detailed study of abstract models for the syntax of programming languages and information processing devices  Languages and their representation; grammars; finite automata and regular sets; context-free grammars and pushdown automata; Chomsky Hierarchy; closure properties of families of languages; syntax analysis",
+        "offered": [
+            "On demand"
+        ],
+        "prerequisites": [
+            "one semester of discrete structures",
+            "consent of the department"
+        ],
+        "title": "Formal Languages and Automata"
+    },
+    "ITCS 6110": {
+        "course": "6110",
+        "credits": [
+            "3"
+        ],
+        "dept": "ITCS",
+        "description": "A continuation of material in ITCS 5128 with emphasis on advanced aspects of optimization, data flow analysis, and error discovery",
+        "offered": [
+            "On demand"
+        ],
+        "prerequisites": [
+            "one semester of discrete structures",
+            "consent of the department"
+        ],
+        "title": "Topics in Programming Languages and Compilers"
+    },
+    "ITCS 6111": {
+        "course": "6111",
+        "credits": [
+            "3"
+        ],
+        "dept": "ITCS",
+        "description": "General introduction to optimization problems  Optimization techniques: hill climbing, simulated annealing, evolution strategies, and genetic algorithms  Evolution programming techniques",
+        "offered": [
+            "Even",
+            "Spring Evenings"
+        ],
+        "prerequisites": [
+            "ITCS 6114",
+            "consent of the department"
+        ],
+        "title": "Evolutionary Computation"
+    },
+    "ITCS 6112": {
+        "course": "6112",
+        "credits": [
+            "3"
+        ],
+        "dept": "ITCS",
+        "description": "Introduction to the techniques involved in the planning and implementation of large software systems  Emphasis on human interface aspects of systems  Planning software projects; software design process; top-down design; modular and structured design; management of software projects; testing of software; software documentation; choosing a language for software system",
+        "offered": [
+            "This course is cross-listed with ITIS 6112 Fall",
+            "SpringEvenings"
+        ],
+        "prerequisites": [
+            "consent of the department"
+        ],
+        "title": "Software System Design and Implementation"
+    },
+    "ITCS 6114": {
+        "course": "6114",
+        "credits": [
+            "3"
+        ],
+        "dept": "ITCS",
+        "description": "Introduction to techniques and structures used and useful in design of sophisticated software systems  Records; arrays; linked lists; queues; stacks; trees; graphs; storage management and garbage collection; recursive algorithms; searching and sorting; graph algorithms; time and space complexity",
+        "offered": [
+            "Fall",
+            "Spring Evenings"
+        ],
+        "prerequisites": [
+            "full graduate standing"
+        ],
+        "title": "Algorithms and Data Structures"
+    },
+    "ITCS 6115": {
+        "course": "6115",
+        "credits": [
+            "3"
+        ],
+        "dept": "ITCS",
+        "description": "Continuation and extension of ITCS 6114  String matching; semi numerical algorithms; probabilistic algorithms; parallel algorithms; NP-completeness; computationally hard problems; approximation algorithms",
+        "offered": [
+            "On demand"
+        ],
+        "prerequisites": [
+            "ITCS 6114"
+        ],
+        "title": "Advanced Topics in Algorithms and Data Structures"
+    },
+    "ITCS 6120": {
+        "course": "6120",
+        "credits": [
+            "3"
+        ],
+        "dept": "ITCS",
+        "description": "Introduction to the design and implementation of interactive graphics systems  Raster and vector display systems, I/O devices; graphics primitives and their attributes; raster algorithms and clipping; 2D/3D geometric transformations; 3D viewing and projections; hierarchical and procedural models; surface representation; color and lighting models; rendering algorithms; global illumination and texture mapping",
+        "offered": [
+            "Fall Evenings"
+        ],
+        "prerequisites": [
+            "full graduate standing",
+            "consent of the department"
+        ],
+        "title": "Computer Graphics"
+    },
+    "ITCS 6124": {
+        "course": "6124",
+        "credits": [
+            "3"
+        ],
+        "dept": "ITCS",
+        "description": "This course focuses on advanced concepts and techniques related to the design, implementation, integration, and management of illustrative visualization and computer graphics  Topics include various advanced visualization topics: feature extraction, non-photorealistic rendering, point-based rendering, hardware-accelerated rendering, segmentation, image generation, animation, evaluation, design, and interaction",
+        "offered": [
+            "Spring Evenings"
+        ],
+        "prerequisites": [
+            "ITCS 4120",
+            "ITCS 5120"
+        ],
+        "title": "Illustrative Visualization 3 Credit hours"
+    },
+    "ITCS 6125": {
+        "course": "6125",
+        "credits": [
+            "3"
+        ],
+        "dept": "ITCS",
+        "description": "This course will cover the current state of the art in the design and implementation of Virtual Environments  Topics covered will include: position tracking, design of head-traced and head-mounted displays, stereoscopic display, presence in virtual environments, 3D user interface design, and applications of VEs  Previous experience in computer graphics or 3D game design is helpful but not required",
+        "offered": [
+            "On Demand"
+        ],
+        "prerequisites": [
+            "Graduate Standing"
+        ],
+        "title": "Virtual Environments"
+    },
+    "ITCS 6126": {
+        "course": "6126",
+        "credits": [
+            "3"
+        ],
+        "dept": "ITCS",
+        "description": "Concept, theory, design principles, data processing techniques, and visual metaphors and interaction techniques for massive, multi-dimensional, multi-source, time-varying information exploration",
+        "offered": [
+            "On demand"
+        ],
+        "prerequisites": [
+            "ITCS 4121",
+            "ITCS 5121 Information Visualization"
+        ],
+        "title": "Large Scale Information Visualization"
+    },
+    "ITCS 6127": {
+        "course": "6127",
+        "credits": [
+            "3"
+        ],
+        "dept": "ITCS",
+        "description": "This course focuses on advanced concepts and techniques employed in building real-time rendering systems that support a high level of realism as well as handle large geometric models  Topics include: modern graphics hardware, programmable shaders, shadow and environment mapping, image-based modeling and rendering, large data models (simplification, level of detail), high quality interactive rendering  (On Demand)",
+        "offered": [
+            ""
+        ],
+        "prerequisites": [
+            "ITCS 5120",
+            "ITCS 6120"
+        ],
+        "title": "Real Time Rendering Engines"
+    },
+    "ITCS 6128": {
+        "course": "6128",
+        "credits": [
+            "3"
+        ],
+        "dept": "ITCS",
+        "description": "The course covers the fundamentals of 3D display hardware and software technology  Topics include: human visual spatial perception of natural and synthetic 3D images, 3D display hardware, human computer interface algorithms for effective stereoscopic display, 3D display rendering techniques  (On Demand)",
+        "offered": [
+            ""
+        ],
+        "prerequisites": [
+            "ITCS 4120",
+            "ITCS 6120"
+        ],
+        "title": "3D Display and Advanced Interfaces"
+    },
+    "ITCS 6130": {
+        "course": "6130",
+        "credits": [
+            "3"
+        ],
+        "dept": "ITCS",
+        "description": "Implicit and parametric representation; cubic surfaces; advanced reflection models; global illumination models - ray tracing, radiosity; shadow algorithms, texture mapping; volumetric modeling and rendering techniques; animation; advanced modeling techniques; particle systems, fractals",
+        "offered": [
+            "On demand"
+        ],
+        "prerequisites": [
+            "ITCS 6120",
+            "equivalent",
+            "consent of the department"
+        ],
+        "title": "Advanced Computer Graphics"
+    },
+    "ITCS 6132": {
+        "course": "6132",
+        "credits": [
+            "3"
+        ],
+        "dept": "ITCS",
+        "description": "The objective of this course is to develop an understanding of modeling and analysis techniques for communication systems and networks  The intent is to enable the student to understand how to comparatively analyze the cost and performance impact of network architecture and protocol design decisions  Modeling techniques for analytical analysis, simulation based analysis, and measurement based analysis will be presented  Concepts covered include validation/verification of models, workload characterization, metric selection, presentation and interpretation of results  A semester long analysis project will be undertaken",
+        "offered": [
+            "Fall",
+            "even years"
+        ],
+        "prerequisites": [
+            "A course in communication networks",
+            "consent of the department"
+        ],
+        "title": "Modeling and Analysis of Communication Networks"
+    },
+    "ITCS 6134": {
+        "course": "6134",
+        "credits": [
+            "3"
+        ],
+        "dept": "ITCS",
+        "description": "Image perception; image types/applications; image restoration and enhancement; edge/boundary detection; image transformation; image segmentation; statistical and syntactical pattern recognition; image information measures and compression",
+        "offered": [
+            "Fall Evenings"
+        ],
+        "prerequisites": [
+            "full graduate standing",
+            "consent of the department Cross listed as ECGR 6118"
+        ],
+        "title": "Digital Image Processing"
+    },
+    "ITCS 6140": {
+        "course": "6140",
+        "credits": [
+            "3"
+        ],
+        "dept": "ITCS",
+        "description": "Emphasis on the methodology and application of data visualization to scientific and engineering data; data types and models; visualization methods; volume visualization; scalar, vector and tensor fields; multi-variate visualization; visualization systems and models; visualization applications; visualization software and hardware; research issues and future trends",
+        "offered": [
+            "On Demand"
+        ],
+        "prerequisites": [
+            "Full graduate standing",
+            "consent of the department"
+        ],
+        "title": "Data Visualization"
+    },
+    "ITCS 6144": {
+        "course": "6144",
+        "credits": [
+            "3"
+        ],
+        "dept": "ITCS",
+        "description": "Introduction to features of a large-scale operating system with emphasis on resource-sharing environments  Computer system organization; resource management; multiprogramming; multi-processing; file systems; virtual machine concepts; protection and efficiency",
+        "offered": [
+            "On Demand"
+        ],
+        "prerequisites": [
+            "ITCS 6114",
+            "consent of the department"
+        ],
+        "title": "Operating Systems Design"
+    },
+    "ITCS 6148": {
+        "course": "6148",
+        "credits": [
+            "3"
+        ],
+        "dept": "ITCS",
+        "description": "This course focuses on issues related to the design, implementation, integration, and management of large object-oriented systems  Topics include: object models, object modeling, frameworks, persistent and distributed objects, and object-oriented databases",
+        "offered": [
+            "This course is cross-listed with ITIS 6148 On Demand"
+        ],
+        "prerequisites": [
+            "ITCS 6112",
+            "equivalent"
+        ],
+        "title": "Advanced Object Oriented Systems"
+    },
+    "ITCS 6150": {
+        "course": "6150",
+        "credits": [
+            "3"
+        ],
+        "dept": "ITCS",
+        "description": "To introduce core ideas in AI  Heuristic versus algorithmic methods; problem solving; game playing and decision making; automatic theorem proving; pattern recognition; adaptive learning; projects to illustrate theoretical concepts",
+        "offered": [
+            "Fall Evenings"
+        ],
+        "prerequisites": [
+            "full graduate standing",
+            "consent of the department"
+        ],
+        "title": "Intelligent Systems"
+    },
+    "ITCS 6151": {
+        "course": "6151",
+        "credits": [
+            "3"
+        ],
+        "dept": "ITCS",
+        "description": "General introduction to spatial descriptions and transformations, and manipulator position and motion  More study on robot planning, programming, sensing, vision, and CAD/CAM",
+        "offered": [
+            "Odd",
+            "Spring Evenings"
+        ],
+        "prerequisites": [
+            "ITCS 1215",
+            "MATH 2164",
+            "consent of the department"
+        ],
+        "title": "Intelligent Robotics"
+    },
+    "ITCS 6153": {
+        "course": "6153",
+        "credits": [
+            "3"
+        ],
+        "dept": "ITCS",
+        "description": "Topics include: Basic notions and models of artificial neural nets; single layer neural classifiers; multilayer one-way neural nets; single layer feedback networks; neural models of associative memory; self organizing neural nets; translation between neural networks and knowledge bases; applications of neural networks",
+        "offered": [
+            "On Demand"
+        ],
+        "prerequisites": [
+            "ITCS 6114"
+        ],
+        "title": "Neural Networks"
+    },
+    "ITCS 6154": {
+        "course": "6154",
+        "credits": [
+            "3"
+        ],
+        "dept": "ITCS",
+        "description": "Heuristics and problem representation; heuristic-search procedures; formal properties and performance analysis of heuristic methods; game-searching strategies and heuristic programming; search with probabilities; knowledge-guided search",
+        "offered": [
+            "On demand"
+        ],
+        "prerequisites": [
+            "ITCS 6150"
+        ],
+        "title": "Heuristic Search"
+    },
+    "ITCS 6155": {
+        "course": "6155",
+        "credits": [
+            "3"
+        ],
+        "dept": "ITCS",
+        "description": "Knowledge systems; knowledge discovery; association rules; query languages and operational semantics; decision systems; cooperative and collaborative systems; tree structured information systems; tree structured query languages; flexible query answering; chase algorithm based on rules; local and global ontologies; action rules; optimization problems for query answering systems",
+        "offered": [
+            "Spring Evenings"
+        ],
+        "prerequisites": [
+            "ITCS 6162",
+            "consent of the department"
+        ],
+        "title": "Knowledge Based Systems"
+    },
+    "ITCS 6156": {
+        "course": "6156",
+        "credits": [
+            "3"
+        ],
+        "dept": "ITCS",
+        "description": "Machine learning methods and techniques including: acquisition of declarative knowledge; organization of knowledge into new, more effective representations; development of new skills through instruction and practice; and discovery of new facts and theories through observation and experimentation",
+        "offered": [
+            "Fall",
+            "Odd years"
+        ],
+        "prerequisites": [
+            "ITCS 6150",
+            "consent of the department"
+        ],
+        "title": "Machine Learning"
+    },
+    "ITCS 6157": {
+        "course": "6157",
+        "credits": [
+            "3"
+        ],
+        "dept": "ITCS",
+        "description": "Topics include: Representation of visual content, querying visual databases, content-based interactive browsing and navigation, system architecture, similarity models, indexing visual databases, data models and knowledge structures, image retrieval by similarity, and video retrieval by content",
+        "offered": [
+            "Even",
+            "Fall Evenings"
+        ],
+        "prerequisites": [
+            "ITCS6160",
+            "equivalent"
+        ],
+        "title": "Visual Databases"
+    },
+    "ITCS 6158": {
+        "course": "6158",
+        "credits": [
+            "3"
+        ],
+        "dept": "ITCS",
+        "description": "Principles, methodologies, and programming methods of natural language processing including foundations of natural language understanding, namely: lexical, syntactic, and semantic analysis, discourse integration, and pragmatic and morphological analysis",
+        "offered": [
+            "On demand"
+        ],
+        "prerequisites": [
+            "ITCS 6150"
+        ],
+        "title": "Natural Language Processing"
+    },
+    "ITCS 6159": {
+        "course": "6159",
+        "credits": [
+            "3"
+        ],
+        "dept": "ITCS",
+        "description": "This course introduces the issues relevant to creating adaptive learning systems using artificial intelligence and includes a project to build a small Intelligent Tutoring System (ITS)  Topics include: representation of knowledge and cognition, ITS design, adaptive user interfaces, design and evaluation of feedback, experimental methods, educational data mining, history of intelligent tutoring, tutor authoring, and issues for implementation",
+        "offered": [
+            "On demand"
+        ],
+        "prerequisites": [
+            "Graduate standing",
+            "permission of the instructor"
+        ],
+        "title": "Intelligent Tutoring Systems"
+    },
+    "ITCS 6160": {
+        "course": "6160",
+        "credits": [
+            "3"
+        ],
+        "dept": "ITCS",
+        "description": "Introduction to principles of database design, and survey of alternative database organizations and structures  Logical database organization; schemas; subschemas; data description languages; hierarchical, network, and relational databases; database management systems; normal forms",
+        "offered": [
+            "Fall",
+            "SpringEvenings"
+        ],
+        "prerequisites": [
+            "ITCS 6114",
+            "consent of the department"
+        ],
+        "title": "Database Systems"
+    },
+    "ITCS 6161": {
+        "course": "6161",
+        "credits": [
+            "3"
+        ],
+        "dept": "ITCS",
+        "description": "Continuation of ITCS 6160  Topics include deductive databases; semantic query processing; intelligent and cooperative query languages; distributed databases; active databases; heterogeneous databases, multimedia databases; data and knowledge interchange; multidatabase systems; very large databases",
+        "offered": [
+            "Odd Years",
+            "FallEvenings"
+        ],
+        "prerequisites": [
+            "ITCS 6160",
+            "equivalent"
+        ],
+        "title": "Advanced Topics in Database Systems"
+    },
+    "ITCS 6162": {
+        "course": "6162",
+        "credits": [
+            "3"
+        ],
+        "dept": "ITCS",
+        "description": "The entire knowledge discovery process is covered in this course  Topics include: setting up a problem, data preprocessing and warehousing, data mining in search for knowledge, knowledge evaluation, visualization and application in decision making  A broad range of systems, such as OLAP, LERS, DatalogicR+, C4 5, AQ15, Forty-Niner, CN2, QRAS, and discretization algorithms are covered",
+        "offered": [
+            "Fall Evenings"
+        ],
+        "prerequisites": [
+            "ITCS 6160",
+            "consent of the department"
+        ],
+        "title": "Knowledge Discovery in Databases"
+    },
+    "ITCS 6163": {
+        "course": "6163",
+        "credits": [
+            "3"
+        ],
+        "dept": "ITCS",
+        "description": "Topics include: use of data in discovery of knowledge and decision making; the limitations of relational databases and SQL queries; the warehouse data models: multidimensional, star, snowflake; architecture of data warehouse and the process of warehouse construction; data consolidation from various sources; optimization; techniques for data transformation and knowledge extraction; relations with enterprise modeling",
+        "offered": [
+            "Spring Evenings"
+        ],
+        "prerequisites": [
+            "ITCS 6160",
+            "equivalent"
+        ],
+        "title": "Data Warehousing"
+    },
+    "ITCS 6164": {
+        "course": "6164",
+        "credits": [
+            "3"
+        ],
+        "dept": "ITCS",
+        "description": "The fundamental concepts and philosophy of planning and implementing an online computer system  Characteristics of online systems; hardware requirements; modeling of online systems; performance measurement; language choice for online systems; organization techniques, security requirements; resource allocation",
+        "offered": [
+            "On demand"
+        ],
+        "prerequisites": [
+            "ITCS 6114",
+            "consent of the department"
+        ],
+        "title": "Design and Implementation of Online Management Information Systems"
+    },
+    "ITCS 6165": {
+        "course": "6165",
+        "credits": [
+            "3"
+        ],
+        "dept": "ITCS",
+        "description": "Information theory; coding theory; Shannon's theorem; Markov process; channel capacity; data transmission codes; error correcting codes; data compression; data encryption",
+        "offered": [
+            "On demand"
+        ],
+        "prerequisites": [
+            "knowledge of probability theory"
+        ],
+        "title": "Coding and Information Theory"
+    },
+    "ITCS 6166": {
+        "course": "6166",
+        "credits": [
+            "3"
+        ],
+        "dept": "ITCS",
+        "description": "Introduction to the concepts of communication networks; Types of networks; wired and wireless media; communication architectures; network protocols; coding and modulation; multiplexing and multiple access; error and flow control; routing; Internet Protocols; transport protocols; Assignments include implementation and analysis of network protocols (Fall) (Evenings)",
+        "offered": [
+            ""
+        ],
+        "prerequisites": [
+            "knowledge of probability theory"
+        ],
+        "title": "Computer Communications and Networks"
+    },
+    "ITCS 6167": {
+        "course": "6167",
+        "credits": [
+            "3"
+        ],
+        "dept": "ITCS",
+        "description": "This course focuses on advanced networking concepts and protocols related to the design, implementation, integration, and management of networking and communication systems  Topics include: topology control protocols, ad hoc routing protocols, power management protocols, distributed data processing protocols for various networking systems (Internet, wireless mesh networks, ad hoc networks, sensor networks, peer-to-peer networks)",
+        "offered": [
+            "Spring Evenings"
+        ],
+        "prerequisites": [
+            "ITCS 6166",
+            "ITCS 6168"
+        ],
+        "title": "Advanced Networking Protocols"
+    },
+    "ITCS 6168": {
+        "course": "6168",
+        "credits": [
+            "3"
+        ],
+        "dept": "ITCS",
+        "description": "The course provides an overview of mobile systems and wireless networking technologies  Emphasis will be on resource management, routing and quality of service at the MAC and networking layers for mobile systems  Students will undertake a semester long research project to survey the research literature and identify specific challenges for cellular telecommunications, wireless LANS, ad hoc networks, mesh networks or sensor networks",
+        "offered": [
+            "Fall",
+            "odd years"
+        ],
+        "prerequisites": [
+            "Graduate standing in CS SIS ECE",
+            "Optics",
+            "a prior course in networking"
+        ],
+        "title": "Wireless Communication Networks"
+    },
+    "ITCS 6170": {
+        "course": "6170",
+        "credits": [
+            "3"
+        ],
+        "dept": "ITCS",
+        "description": "Introduction to basic concepts of logic for artificial intelligence, including declarative knowledge, inference, resolution, non-monotonic reasoning, induction, reasoning with uncertain beliefs, distributed information systems, intelligent information systems, planning and intelligent-agent architecture",
+        "offered": [
+            "On demand"
+        ],
+        "prerequisites": [
+            "ITCS 6150",
+            "consent of the department"
+        ],
+        "title": "Logic for Artificial Intelligence"
+    },
+    "ITCS 6171": {
+        "course": "6171",
+        "credits": [
+            "3"
+        ],
+        "dept": "ITCS",
+        "description": "Prolog programming language; programming techniques in Prolog; foundations of logic programming including computability of Horn clause logic, completeness of resolution principle, complexity of unification algorithms, and verification of logic programs; principles of implementing logic programming systems; selected topics from applications of logic programming to expert systems, intelligent database systems, and/or natural language processing",
+        "offered": [
+            "On demand"
+        ],
+        "prerequisites": [
+            "ITCS 6150",
+            "consent of the department"
+        ],
+        "title": "Logic Programming"
+    },
+    "ITCS 6175": {
+        "course": "6175",
+        "credits": [
+            "3"
+        ],
+        "dept": "ITCS",
+        "description": "Study of computability, unsolvability, & computational complexity  Concept of effective computability; recursive functions; mathematical models of computation; universal Turing machines; unsolvable problems; time and space complexity of computation; NP-completeness; subrecursive hierarchies",
+        "offered": [
+            "On demand"
+        ],
+        "prerequisites": [
+            "consent of the department"
+        ],
+        "title": "Computability and Complexity"
+    },
+    "ITCS 6181": {
+        "course": "6181",
+        "credits": [
+            "3"
+        ],
+        "dept": "ITCS",
+        "description": "Topics include sets, relations, lattices, Boolean algebras; functional decomposition and symmetric functions; threshold logic; multiple-valued logic; fault detection and fault tolerant design; finite state machines, incompletely specified machines, minimization; state identification and fault detection experiments; finite state recognizers",
+        "offered": [
+            "On demand"
+        ],
+        "prerequisites": [
+            "consent of the department"
+        ],
+        "title": "Switching and Automata Theory"
+    },
+    "ITCS 6182": {
+        "course": "6182",
+        "credits": [
+            "3"
+        ],
+        "dept": "ITCS",
+        "description": "Survey of existing and proposed architectures; pipelined, dataflow, multi-bus and parallel system architecture, and interconnection network architectures  The course is project based that requires written and verbal presentation of projects",
+        "offered": [
+            "On demand"
+        ],
+        "prerequisites": [
+            "ITCS 3181",
+            "equivalent Computer Science Graduate Standing",
+            "permission of the Department"
+        ],
+        "title": "Computer System Architecture 3"
+    },
+    "ITCS 6183": {
+        "course": "6183",
+        "credits": [
+            "3"
+        ],
+        "dept": "ITCS",
+        "description": "Principles, architecture, and design of fast two operand adders; multioperand adders, standard multipliers, and dividers  Cellular array multipliers and dividers  Floating point processes, BCD, and excess three adders, multipliers, and dividers",
+        "offered": [
+            "On demand"
+        ],
+        "prerequisites": [
+            "consent of the department"
+        ],
+        "title": "Computer Arithmetic"
+    },
+    "ITCS 6184": {
+        "course": "6184",
+        "credits": [
+            "3"
+        ],
+        "dept": "ITCS",
+        "description": "Design and analysis of fault tolerant digital systems including design techniques, qualitative and quantitative methods of evaluation, and available fault tolerant digital systems",
+        "offered": [
+            "On demand"
+        ],
+        "prerequisites": [
+            "ITCS 5141"
+        ],
+        "title": "Fault Tolerant Digital Systems"
+    },
+    "ITCS 6186": {
+        "course": "6186",
+        "credits": [
+            "3"
+        ],
+        "dept": "ITCS",
+        "description": "Project oriented course on techniques and methodology in design and development of special purpose systems valuable for business, healthcare, and industrial community; course content include system specifications, interface structure and data communication, interconnection architecture, and techniques for testing and debugging",
+        "offered": [
+            "On Demand"
+        ],
+        "prerequisites": [
+            "ITCS 5141",
+            "equivalent",
+            "consent of the Department"
+        ],
+        "title": "Application Specifics System Design and Simulation"
+    },
+    "ITCS 6216": {
+        "course": "6216",
+        "credits": [
+            "3"
+        ],
+        "dept": "ITCS",
+        "description": "This course presents multiple perspectives on the study of intelligent systems  Broad coverage of such topics as philosophy of mind; human memory processes; reasoning and problem solving; artificial intelligence; language processing (human and machine); neural structures and processes; and vision  Also included is participation in the cognitive science seminar (Same as PSYC 6216, and ITIS 6216) (Spring)",
+        "offered": [
+            ""
+        ],
+        "prerequisites": [
+            "Graduate standing"
+        ],
+        "title": "Introduction to Cognitive Science"
+    },
+    "ITCS 6220": {
+        "course": "6220",
+        "credits": [
+            "3"
+        ],
+        "dept": "ITCS",
+        "description": "Topics include: Pattern pre-processing and feature extraction (entropy minimization, orthogonal expansion, Fourier expansion, Karhunen-Loeve expansion, PCA); linear decision functions; orthogonal and non-orthogonal systems of functions; pattern classification by distance functions (Nearest Neighbor, K-means, ISODATA); pattern classification by likelihood functions (Bayesian classifiers, estimation of probability density function); trainable classifiers (LMSE, Perceptron, multi-layer perceptrons, fuzzy classifiers); stochastic processes; classification on categorical attributes",
+        "offered": [
+            "On Demand"
+        ],
+        "prerequisites": [
+            "Graduate standing"
+        ],
+        "title": "Pattern Recognition"
+    },
+    "ITCS 6222": {
+        "course": "6222",
+        "credits": [
+            "3"
+        ],
+        "dept": "ITCS",
+        "description": "Topics include: Fundamental techniques in processing, analysis, feature extraction, and classification of complex signals; origin and processing techniques for biomedical signals, including ECG, ENG, EEG, MEG, ERG, EMG, respiratory signals, blood sound, and pressure signals",
+        "offered": [
+            "On demand"
+        ],
+        "prerequisites": [
+            "Graduate standing"
+        ],
+        "title": "Biomedical Signal Processing"
+    },
+    "ITCS 6224": {
+        "course": "6224",
+        "credits": [
+            "3"
+        ],
+        "dept": "ITCS",
+        "description": "Topics include: Review of image processing and pattern recognition (2-D Fourier transforms, 2-D Wavelet transform, denoising of medical images); origin and processing of X-ray images; CT images; MRI images; ultrasonic images; PET images; thermal images; electrical impedance images; cross-registration between images of different source; stereotactic neurosurgery; stereotactic radiosurgery/radiotherapy; robot-assisted surgery",
+        "offered": [
+            "On demand"
+        ],
+        "prerequisites": [
+            "Graduate standing",
+            "Math 2164",
+            "its equivalent"
+        ],
+        "title": "Biomedical Image Processing"
+    },
+    "ITCS 6226": {
+        "course": "6226",
+        "credits": [
+            "3"
+        ],
+        "dept": "ITCS",
+        "description": "Topics include: Brief Review of molecular biology, proteins and their classifications, DNA, RNA, and using microarrays and gene chips for sequencing; review of computational techniques for bioinformatics, expectation maximization, Bayesian classifiers, dynamic programming, information theory and entropy analysis, Markov chain models, and neural networks; computational techniques for local and multiple sequence alignment; application of Markov chains in finding genes; using information theory to estimate binding sites, start Codon prediction; RNA secondary structure prediction; computational techniques for protein function prediction; Advanced signal processing techniques in feature extraction from protein sequences",
+        "offered": [
+            "On demand"
+        ],
+        "prerequisites": [
+            "Graduate standing"
+        ],
+        "title": "Bioinformatics"
+    },
+    "ITCS 6228": {
+        "course": "6228",
+        "credits": [
+            "3"
+        ],
+        "dept": "ITCS",
+        "description": "This course focuses on methods and techniques used in storage, communication, processing, analysis, integration, management, and distribution of medical information  The course emphasizes the applications of telemedicine and intelligent computer-aided decision making systems in different medical and surgical systems  The course also discusses the computational methods to accept or reject a new drug or a new treatment for a given disease",
+        "offered": [
+            "On demand Evenings"
+        ],
+        "prerequisites": [
+            "Graduate standing"
+        ],
+        "title": "Medical Informatics"
+    },
+    "ITCS 6265": {
+        "course": "6265",
+        "credits": [
+            "3"
+        ],
+        "dept": "ITCS",
+        "description": "Continuation and extension of ITCS 6162  Information visualization in data mining and knowledge discovery, predictive data mining, mining of multimedia sources, mining of unstructured data, distributed data mining, mining of Web data/information, mining complex types of data, mining of biotechnology data, applications and trends in data mining",
+        "offered": [
+            "On demand"
+        ],
+        "prerequisites": [
+            "Graduate standing"
+        ],
+        "title": "Advanced Topics in Knowledge Discovery in Databases"
+    },
+    "ITCS 6267": {
+        "course": "6267",
+        "credits": [
+            "3"
+        ],
+        "dept": "ITCS",
+        "description": "Topics include: definition of the information retrieval problem, modeling the information retrieval problem, evaluation of information retrieval, query languages and operations, text processing, indexing and searching, parallel and distributed information retrieval, user interface and visualization, multimedia information retrieval, and information retrieval applications",
+        "offered": [
+            "On demand"
+        ],
+        "prerequisites": [
+            "ITCS 6114",
+            "consent of the department"
+        ],
+        "title": "Intelligent Information Retrieval"
+    },
+    "ITCS 6490": {
+        "course": "6490",
+        "credits": [
+            "0",
+            "6"
+        ],
+        "dept": "ITCS",
+        "description": "Full or part-time academic year internship in computer science areas complementary to the concentration area of studies and designed to allow theoretical and course-based practical learning to be applied in a supervised industrial experience  Each student's internship program must be approved by the supervising faculty, the academic advisor, and the graduate program director  A mid-term report and a final report to be evaluated by the supervising faculty in consultation with off-campus supervisors at the internship organization  The credit hours may not be part of the minimum 30 credit hours for graduation  May be repeated for credit",
+        "offered": [
+            "On demand"
+        ],
+        "prerequisites": [
+            "Completion of six hours of graduate coursework"
+        ],
+        "title": "Industrial Internship"
+    },
+    "ITCS 6500": {
+        "course": "6500",
+        "credits": [
+            "3"
+        ],
+        "dept": "ITCS",
+        "description": "Cross listed as ITIS 6500/8500  Prerequisite: Permission of instructor  Complex adaptive systems (CAS) are networked (agents/part interact with their neighbors and, occasionally, distant agents), nonlinear (the whole is greater than the sum of its parts), adaptive (the system learns to change with its environment), open (new resources are being introduced into the environment), dynamic (the change is a norm), emergent (new, unplanned features of the system get introduced through the interaction of its parts/agents), and self-organizing (the parts organize themselves into a hierarchy of subsystems of various complexity)  Ant colonies, networks of neurons, the immune system, the Internet, social institutions, organizations of cities, and the global economy are a few examples where the behavior of the whole is much more complex than the behavior of the parts  This course will cover those and similar topics in an interactive manner  Examples of our current research effort will be provided  Topics include: Self-organization; emergent properties; learning; agents; localization affect; adaptive systems; nonlinear behavior; chaos; complexity",
+        "offered": [
+            "On demand"
+        ],
+        "prerequisites": [
+            "consent of the department"
+        ],
+        "title": "Complex Adaptive Systems 3"
+    },
+    "ITCS 6690": {
+        "course": "6690",
+        "credits": [
+            "3"
+        ],
+        "dept": "ITCS",
+        "description": "Experience for the advanced M S  student on current problems of computer design and application  (May be used by a student or small group of students to work with a professor on a topic of mutual interest  May be used to give a course on a topic announced in advance",
+        "offered": [
+            "On demand"
+        ],
+        "prerequisites": [
+            "at least 18 graduate ITCS ITIS hours",
+            "consent of the department"
+        ],
+        "title": "Computer Science Seminar"
+    },
+    "ITCS 6880": {
+        "course": "6880",
+        "credits": [
+            "1",
+            "3"
+        ],
+        "dept": "ITCS",
+        "description": "With the direction of a faculty member, students plan and implement appropriate objectives and learning activities to develop specific areas of expertise through research, reading, and individual projects  May be repeated for credit",
+        "offered": [
+            "On demand"
+        ],
+        "prerequisites": [
+            "At least 18 graduate ITCS ITIS hours",
+            "consent of the department"
+        ],
+        "title": "Individual Study"
+    },
+    "ITCS 6991": {
+        "course": "6991",
+        "credits": [
+            "1",
+            "3"
+        ],
+        "dept": "ITCS",
+        "description": "Graduate thesis research  Detailed exploration of an area of computer science chosen for thesis research  May be repeated for credit but no more than six hours may be applied to M S  degree requirements",
+        "offered": [
+            "Fall",
+            "Spring",
+            "Summer Evenings"
+        ],
+        "prerequisites": [
+            "consent of the department"
+        ],
+        "title": "Computer Science Thesis"
+    },
+    "ITCS 7999": {
+        "course": "7999",
+        "credits": [
+            "1"
+        ],
+        "dept": "ITCS",
+        "description": "See Department for Course Description",
+        "offered": [
+            "Fall",
+            "Spring",
+            "SummerEvenings"
+        ],
+        "prerequisites": [
+            "consent of the department"
+        ],
+        "title": "Master's Degree Graduate Residence"
+    }
+}
