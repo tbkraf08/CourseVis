@@ -6,38 +6,47 @@
       "children":[
          {
             "name":"Big Data in Bioinformatics",
+            "parent":"Bioinformatics",
             "size":100
          },
          {
             "name":"Computational Biophysics",
+            "parent":"Bioinformatics",
             "size":100
          },
          {
             "name":"Computational Mass Spectrometry",
+            "parent":"Bioinformatics",
             "size":100
          },
          {
             "name":"Genome-Wide Association Analysis",
+            "parent":"Bioinformatics",
             "size":100
          },
          {
             "name":"High-Throughput Studies",
+            "parent":"Bioinformatics",
             "size":100
          },
          {
             "name":"Metagenomics",
+            "parent":"Bioinformatics",
             "size":100
          },
          {
             "name":"Plant Genomics",
+            "parent":"Bioinformatics",
             "size":100
          },
          {
             "name":"Structural Bioinformatics",
+            "parent":"Bioinformatics",
             "size":100
          },
          {
             "name":"Systems Biology",
+            "parent":"Bioinformatics",
             "size":100
          }
       ]
@@ -47,22 +56,27 @@
       "children":[
          {
             "name":"Data Management",
+            "parent":"Computer Science",
             "size":100
          },
          {
             "name":"Networking and Distributed Computing",
+            "parent":"Computer Science",
             "size":100
          },
          {
             "name":"Visualization and Computer Graphics",
+            "parent":"Computer Science",
             "size":100
          },
          {
             "name":"Intelligent & Interactive Systems",
+            "parent":"Computer Science",
             "size":100
          },
          {
             "name":"Applications",
+            "parent":"Computer Science",
             "size":100
          }
       ]
@@ -72,18 +86,22 @@
       "children":[
          {
             "name":"Programmer & Software Engineer",
+            "parent":"Health Informatics",
             "size":100
          },
          {
             "name":"HIM / Exchange Specialist",
+            "parent":"Health Informatics",
             "size":100
          },
          {
             "name":"HI Privacy and Security Specialist",
+            "parent":"Health Informatics",
             "size":100
          },
          {
             "name":"Health Analyst",
+            "parent":"Health Informatics",
             "size":100
          }
       ]
@@ -93,22 +111,27 @@
       "children":[
          {
             "name":"Human-Computer Interaction Concentration",
+            "parent":"Information Technology",
             "size":100
          },
          {
             "name":"Information Security and Privacy concentration",
+            "parent":"Information Technology",
             "size":100
          },
          {
             "name":"Advanced Data and Knowledge Discovery Concentration",
+            "parent":"Information Technology",
             "size":100
          },
          {
             "name":"Information Technology Management Concentration",
+            "parent":"Information Technology",
             "size":100
          },
          {
             "name":"Software Systems Design and Engineering Concentration",
+            "parent":"Information Technology",
             "size":100
          }
       ]
