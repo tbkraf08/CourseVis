@@ -1,0 +1,117 @@
+{
+   "name":"College of Computing & Informatics",
+   "children":[
+   {
+      "name":"Bioinformatics",
+      "children":[
+         {
+            "name":"Big Data in Bioinformatics",
+            "size":100
+         },
+         {
+            "name":"Computational Biophysics",
+            "size":100
+         },
+         {
+            "name":"Computational Mass Spectrometry",
+            "size":100
+         },
+         {
+            "name":"Genome-Wide Association Analysis",
+            "size":100
+         },
+         {
+            "name":"High-Throughput Studies",
+            "size":100
+         },
+         {
+            "name":"Metagenomics",
+            "size":100
+         },
+         {
+            "name":"Plant Genomics",
+            "size":100
+         },
+         {
+            "name":"Structural Bioinformatics",
+            "size":100
+         },
+         {
+            "name":"Systems Biology",
+            "size":100
+         }
+      ]
+   },
+   {
+      "name":"Computer Science",
+      "children":[
+         {
+            "name":"Data Management",
+            "size":100
+         },
+         {
+            "name":"Networking and Distributed Computing",
+            "size":100
+         },
+         {
+            "name":"Visualization and Computer Graphics",
+            "size":100
+         },
+         {
+            "name":"Intelligent & Interactive Systems",
+            "size":100
+         },
+         {
+            "name":"Applications",
+            "size":100
+         }
+      ]
+   },
+   {
+      "name":"Health Informatics",
+      "children":[
+         {
+            "name":"Programmer & Software Engineer",
+            "size":100
+         },
+         {
+            "name":"HIM / Exchange Specialist",
+            "size":100
+         },
+         {
+            "name":"HI Privacy and Security Specialist",
+            "size":100
+         },
+         {
+            "name":"Health Analyst",
+            "size":100
+         }
+      ]
+   },
+   {
+      "name":"Information Technology",
+      "children":[
+         {
+            "name":"Human-Computer Interaction Concentration",
+            "size":100
+         },
+         {
+            "name":"Information Security and Privacy concentration",
+            "size":100
+         },
+         {
+            "name":"Advanced Data and Knowledge Discovery Concentration",
+            "size":100
+         },
+         {
+            "name":"Information Technology Management Concentration",
+            "size":100
+         },
+         {
+            "name":"Software Systems Design and Engineering Concentration",
+            "size":100
+         }
+      ]
+   }
+   ]
+}
