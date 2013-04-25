@@ -27,7 +27,7 @@ line.link {
     <script type="text/javascript">
 
 var w = 1400,
-    h = 1400,
+    h = 900,
     node,
     link,
     root;
@@ -51,8 +51,8 @@ function update() {
 
   // Restart the force layout.
   force
-      .charge(-120*10)
-      .distance(40*5)
+      .charge(-220*10)
+      .distance(20*5)
       .nodes(nodes)
       .links(links)
       .start();
@@ -82,13 +82,15 @@ function update() {
 
 
   node.append("circle")
-    .attr("r", 20)
-    .style("fill", "#234B6F");
+    .attr("r", radiusFunction)
+    .style("fill", color);
     //.on("click", click);		 /*Commenting this line because, this triggers the click handler twice on a click!*/
 
   node.append("text")
     .attr("dx", 12)
     .attr("dy", ".35em")
+    .attr("fill", "#555")
+    .attr("font-size", fontSize)
     .on("click", click)
     .text(function(d) { return d.name });
 
@@ -137,7 +139,19 @@ function tick() {
 
 // Color leaf nodes orange, and packages white or blue.
 function color(d) {
-  return d._children ? "#3182bd" : d.children ? "#c6dbef" : "#fd8d3c";
+  return d.root ? "orange" : d.parent ? "#fd8d3c" : "#3182bd";
+}
+
+function radiusFunction(d){
+	if(d.root)
+		return 35;
+	else if(d.parent)
+		return 25;
+	return 30;
+}
+
+function fontSize(d){
+	return d.root ? 16 : d.parent ? 12 : 14;
 }
 
 // Toggle children on click.
