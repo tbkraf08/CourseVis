@@ -83,8 +83,8 @@ function update() {
 
   node.append("circle")
     .attr("r", 20)
-    .style("fill", "#234B6F")
-    .on("click", click);
+    .style("fill", "#234B6F");
+    //.on("click", click);		 /*Commenting this line because, this triggers the click handler twice on a click!*/
 
   node.append("text")
     .attr("dx", 12)
@@ -142,14 +142,19 @@ function color(d) {
 
 // Toggle children on click.
 function click(d) {
-  if (d.children) {
-    d._children = d.children;
-    d.children = null;
-  } else {
-    d.children = d._children;
-    d._children = null;
-  }
-  update();
+//FIXME: Call the function handler for the clicked Concentration here.
+//the name of the concentration is obtained by "d.name".
+  /*if (d.children) {
+      d._children = d.children;
+      d.children = null;
+    } else {
+      d.children = d._children;
+      d._children = null;
+    }
+  update();*/
+  console.log("Node Clicked on: " + d.name)
+  if(d.parent != null)
+  	console.log("From Department: " + d.parent);
 }
 
 // Returns a list of all nodes under the root.
