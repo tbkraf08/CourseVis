@@ -1,0 +1,54 @@
+{
+  "name":"Graphics & Visualization",
+  "children" : [
+  	{
+	  "course":"5121",
+	  "name":"Information Visualization",
+	  "credits": "3",
+	  "dept": "ITCS",
+	  "description": "Information visualization concepts, theories, design principles, popular techniques, evaluation methods, and information visualization applications",
+	  "offered": "Spring Evenings",
+	  "prerequisites": [
+	  	"graduate standing"
+	  	]
+	},
+	{
+	  "course":"6120",
+	  "name":"Introduction to Computer Graphics",
+	  "credits": "3",
+	  "dept": "ITCS",
+	  "description": "Graphics hardware; raster algorithms; geometric transformations; 2D/3D interactive graphics; 3D viewing and perspective projections; color and lighting models; hidden surface removal; modeling hierarchies; fractals; curved surfaces",
+	  "offered": "On demand",
+	  "prerequisites": [
+	            "ITCS 2214",
+	            "MATH 2164",
+	            "consent of Department"
+	        ]
+	},
+	{
+		  "course":"5122",
+		  "name":"Visual Analytics",
+		  "credits": "3",
+		  "dept": "ITCS",
+		  "description": "This course introduces the new field of visual analytics, which integrates interactive analytical methods and visualization   Topics include: critical thinking, visual reasoning, perception/cognition, statistical and other analysis techniques, principles of interaction, and applications",
+		  "offered": [
+		  	"Fall Evenings"
+		  	],
+		  "prerequisites": [
+		            "any of STAT 1220 1221 1222 2122",
+		            "2223",
+            		    "approval of the instructor"
+		        ]
+	},
+	{
+		  "course":"5123",
+		  "name":"Visualization in Visual Communication",
+		  "credits": "3",
+		  "dept": "ITCS",
+		  "description": "Understanding the relatively technical field of visualization from the point of view of visual communication, this course draws connections with photography, design, illustration, aesthetics, and art  Both technical and theoretical aspects of the various fields are covered, and the connections between them are investigated",
+		  "offered": "Spring Evenings",
+		  "prerequisites": [
+		        ]
+	}
+  ]
+}
