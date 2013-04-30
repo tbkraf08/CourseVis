@@ -1,0 +1,172 @@
+BINF 5171 Business of Biotechnology
+( Dr. Jennifer Montague or Dr. Cory Brouwer) Fall 2012, Spring 2012, Spring 2011, Summer I 2010
+The purpose of this course is to introduce students to the field of biotechnology and how biotech businesses are created and managed. The students should be able to define biochemistry and understand the difference between a biotech company and a pharmaceutical company. Additional concepts covered will include platform technology, biotechnology’s history, biotechnology products and development processes, current technologies used by biotech companies today, biotechnology business fundamentals, research and development within biotech companies, exit strategies, and careers in the biotech field.
+Credits: 3 Category: Professional Preparation Course
+
+BINF 5191 Biotechnology and the Law
+(Marjorie Benbow) Spring 2013, Fall 2011
+Prerequisite: Admission to a graduate program.  At the intersection of biotechnology and the law, an intricate body of law is forming based on constitutional, case, regulatory and administrative law.  This body of legal knowledge is interwoven with ethics, policy and public opinion.  Because biotechnology impacts everything in our lives, the course will provide an overview of salient legal biotechnology topics, including but not limited to: intellectual property, innovation and approvals in agriculture, drug and diagnostic discovery, the use of human and animal subjects, criminal law and the courtroom, agriculture (from farm to fork), patient care, bioethics, and privacy.  The body of law is quite complex and it is inundated with a deluge of acronyms.  The course will provide a foundation to law and a resource to help students decipher laws and regulation when they are brought up in the workplace.
+Credits: 3 Category: Professional Preparation Course
+
+BINF 6010 Bioinformatics: Metagenomics – Microbial Community Ecology 
+( Dr. Fodor) Spring 2009
+"Microbes run the world. It's that simple".
+Microbial communities process much of the nutrient and energy flux on the planet. All plants and animals have symbiotic microbial communities that contribute key metabolites for their hosts. Microbes touch every area of environmental science from the carbon cycle that controls global warming to the nitrogen cycle that controls soil quality. Despite their ubiquity and importance, the study of microbial communities has historically been limited by the resistance of ~99% of all microbes to culturing. Over the last few decades, the techniques of molecular biology have been used to study the sequences of microbial communities in the absence of culturing. These techniques are often referred to as metagenomics since they allow for information to be acquired simultaneously across many microbial genomes from a single experiment.
+The complexity and apparently inexhaustible diversity of microbial communities, together with the recent rapid development of high-throughput methods for characterizing microbes, generate very difficult and interesting bioinformatics problems. This class will focus on the recent metagenomics literature with an eye towards understanding how to analyze the enormous datasets produced by modern post-genomic techniques.
+Possible topics include: Comparison of pyrosequencing technologies, CAMERA and other public resources, the role of metadata annotations in large-scale data mining, the application of protein structure algorithms to metagenomics, power simulations in the planning of metagenomics experiments, comparison of PCR based techniques to whole-genome shotgun results, the role of ontologies and controlled vocabularies in describing microbial communities, the role of mobile elements in bacterial genomes, informatics techniques for discovery of novel genes, the application of metabolomics and proteomics to metagenomics and the limitations of assembly algorithms on real and simulated data.
+The class is open to all graduate students. Students will be required to participate in class discussions on recent papers and to complete an independent project. Working knowledge of a programming language is recommended, but not required, as a pre-requisite.
+Credits: 3 Category: Elective
+
+BINF 6100 Biological Basis of Bioinformatics
+( Dr. Mays or Dr. J Schlueter) Fall 2012, Fall 2011, Fall 2010, Fall 2009, Fall 2008, Fall 2007
+Prerequisites: Admission to graduate standing in Bioinformatics and undergraduate training in Computer Science or other non-biological discipline. Provides a foundation in molecular genetics and cell biology focusing on foundation topics for graduate training in bioinformatics and genomics.
+Credits: 3 Category: Fundamentals
+
+BINF 6101 Energy and Interaction in Biological Modeling 
+( Dr. Gibas or Dr. Livesay) Spring 2013, Spring 2012, Spring 2011, Spring 2010, Spring 2009, Spring 2008
+Prerequisites: Admission to graduate standing in Bioinformatics. This course covers: the major organic and inorganic chemical features of biological macromolecules, the physical forces that shape biological molecules, assemblies and cells, the chemical driving forces that govern living systems, the molecular roles of biological macromolecules and common metabolites, and the pathways of energy generation and storage. Each section of the course builds upon the relevant biology and chemistry to explain the most common mathematical and physical abstractions used in modeling in the relevant context.
+Credits: 3 Category: Fundamentals
+
+BINF 6111 Bioinformatics Programming I 
+( Dr. Fodor or Dr. Loraine) Fall 2012, Fall 2011, Fall 2010, Fall 2009, Fall 2008, Fall 2007
+Prerequisites: Admission to graduate standing in Bioinformatics. This course introduces fundamentals of programming for bioinformatics using a high-level object-oriented language such as python. The first weeks cover core data types, syntax, and functional programming, focusing on construction of programs from small, testable parts. Students will learn productive use of the Unix environment, focusing on Unix utilities that are particularly useful in bioinformatics. The course will cover object-oriented programming, introduce analysis of algorithms and sequencing alignment methods, and introduce tools that are particularly useful in bioinformatics analysis such as R, BioPython, and Web services in bioinformatics. By the end of the class, students will have gained the ability to analyze data within the python interpreter and write well-documented, well-organized programs.
+Credits: 3 Category: Fundamentals
+
+BINF 6112 Bioinformatics Programming II
+( Dr. Fodor or Dr. Loraine) Spring 2013, Spring 2012, Spring 2011, Spring 2010, Spring 2009, Spring 2008
+Prerequisite: BINF 6111. This is a continuation of Bioinformatics Programming I (BINF 6111). This course is the second semester of Introduction to Bioinformatics Programming. In this semester, students will practice and refine skills learned in the first semester. New topics introduced will include: programming as part of a team, using sequence analysis algorithms in realistic settings; writing maintainable and re-usable code; Web programming; and graphical user interface development. At the end of the semester, students will be able to evaluate and deploy computer languages, tools, and software engineering techniques in bioinformatics research.
+Credits: 3 Category: Fundamentals
+
+BINF 6151 Professional Communications
+( Dr. Mays, Dr. Sell) Fall 2012, Fall 2011, Fall 2010
+This course covers: Principles and useful techniques for effective oral presentations, poster presentations, scientific writing, use of references and avoiding plagiarism. The class will critique and help revise each other’s presentations and learn how to avoid common pitfalls. In addition, students will learn how to properly organize and run a meeting. Students will prepare a CV, job application letter and job talk.
+Credits: 1 Category: Professional Preparation Course
+
+BINF 6152 Program and Professional Orientation
+( Dr. Gibas) Fall 2012
+Students in the course learn to identify key Bioinformatics skill sets and where they are applied in research and industry settings, join appropriate professional networks, use the major professional and research journals in the field, identify key organizations and companies driving intellectual and technology development in Bioinformatics, and achieve beginner-level proficiency with key molecular data repositories.
+Credits: 1 Category: Professional Preparation Course
+
+BINF 6153 Career Development in Bioinformatics
+( Dr. Mays) 2013
+Students in the course will prepare intensively for the job search, from developing a resume, to identifying appropriate opportunities, to preparing for the interview.  Students are expected to complete a final interview practicum with faculty and members of the PSM Advisory Board.
+Credits: 1 Category: Professional Preparation Course
+
+BINF 6200 Statistics for Bioinformatics
+( Dr. Guo or Dr. Du) Fall 2012, Fall 2011, Fall 2010, Fall 2009, Fall 2008, Spring 2008
+Prerequisite: BINF 6100 and 6111 or equivalents. The aim of this 3-credit course is to introduce students to statistical methods commonly used in bioinformatics. Basic relevant concepts from probability, stochastic processes, information theory, and other statistical methods will be introduced and illustrated by examples from molecular biology, genomics and population genetics with an outline of algorithms and software. R is introduced as the programming language for homework.
+Credits: 3 Category: Core
+
+BINF 6201 Molecular Sequence Analysis
+( Dr. Gibas or Dr. Su) Fall 2012, Fall 2011, Fall 2010, Fall 2009, Fall 2008, Fall 2007
+Prerequisite: BINF 6100 and 6200 or equivalent. This course introduces the basic computational methods and open sources software commonly used in molecular sequence analysis. The curse covers biological sequence data formats and major public databases, concepts of computer algorithms and complexity, introductions to principle components analysis and data clustering methods, dynamics of genes in populations, evolutionary models of DNA and protein sequences, derivation of amino acid substitution matrices, algorithms for pairwise sequence alignments and multiple sequence alignments, algorithms for fast sequence database search, methods for molecular phylogenetic analysis, and hidden Markov models and neural networks for sequence pattern and family recognition.
+Credits: 3 Category: Core
+
+BINF 6202 Computational Structural Biology
+( Dr. Livesay or Dr. Guo) Fall 2012, Spring 2011, Spring 2010, Spring 2009, Spring 2008
+Prerequisite: BINF 6101, 6201 or equivalents. This course will cover: (a) the fundamental concepts of structural biology (chemical building blocks, structure, superstructure, folding, etc.); (b) structural databases and software for structure visualization; (c) Structure determination and quality assessment; (d) protein structure comparison and the hierarchical nature of biomacromolecular structure classification; (e) protein structure prediction and assessment; and (f) sequence- and structure-based functional site prediction.
+Credits: 3 Category: Core
+
+BINF 6203 Genomics
+( Dr. Gibas) Spring 2012, Spring 2011, Spring 2010, Spring 2009, Fall 2008 
+Prerequisite: BINF 6100 or equivalent. This course surveys the application and interpretation of high-throughput molecular biology and analytical biochemistry methods used to produce the kinds of high volume biological data most commonly encountered by bioinformaticians. The relationship between significant biological questions, modern biotechnology methods, and the bioinformatics solutions that enable interpretation of complex data is emphasized. Topics include: Genome sequencing and assembly, annotation, and comparison. Genome evolution and individual variation. Function prediction and gene ontologies. Transcription assay design, data acquisition, and data analysis. Proteomics and methods and data analysis. Methods for identification of molecular interactions. Metabolic databases, pathways and models.
+Credits: 3 Category: Core
+
+BINF 6204 Mathematical Systems Biology
+( Dr. Su) Spring 2012, Spring 2010, Spring 2009, Spring 2008 
+Prerequisites: BINF 6200 and 6210 or equivalents. The course introduces basic concepts, principles and common methods in systems biology. The class emphasizes on molecular networks, models and applications, and covers the following topics: the structure of molecular networks; network motifs and their systems properties and roles they play in biological processes; complexity and robustness of molecular networks; hierarchy and modularity of molecular interaction networks; kinetic proofreading; optimal gene circuit design; rules for gene regulation.
+Credits: 3 Category: Core
+
+BINF 6205 Computational Molecular Evolution
+( Dr. J Schlueter ) Spring 2011
+Prerequisites: BINF 6201 (Molecular Sequence Analysis) and BINF 6200 Statistics for Bioinformatics (or permission of the instructor). This course covers major aspects of molecular evolution and phylogenetics with an emphasis on the modeling and computational aspects of the fields. Topics will include: models of nucleotide substitution, models of amino acid and codon substitution, phylogenetic reconstruction, maximum likelihood methods, Bayesian methods, comparison of phylogenetic methods and tests on trees, neutral and adaptive evolution and simulating molecular evolution. Students will obtain an in-depth knowledge of the various models of evolutionary processes, a conceptual understanding of the methods associated with phylogenetic reconstruction and testing of those methods and develop an ability to take a data-set and address fundamental questions with respect to genome evolution. (On demand)
+Credits: 3 Category: Core Genomics
+
+BINF 6210 Numerical Methods and Machine Learning for Bioinformatics
+( Dr. Du) Spring 2012, Fall 2010, Spring 2009 
+Prerequisites: Ability to program in a high-level language (Perl, Java, C#, Python, Ruby, C/C++). Calculus. This course will focus on commonly used numerical methods and machine learning techniques. Topics will include solutions to linear systems, curve fitting, numerical differentiation and integration, PCA, SVD, ICA, SVM, PLS. Time permitting, hidden markov chains and Monte Carlo simulations will be covered as well. Students will learn both the underlying theory and how to apply the theory to solve problems.
+Credits: 3 Category: Core
+
+BINF 6211 Design and Implementation of Bioinformatics Databases
+( Dr. Weller) Spring 2012, Spring 2011, Fall 2009, Spring 2008
+Prerequisite: none; concurrent BINF 6111 recommended. Students will acquire skills needed to access and utilize public biomedical data repositories, and will be expected to design, instantiate, populate, query and maintain a personal database to support research in an assigned domain of bioinformatics. The course content includes common data models and representation styles, use of open-source relational DBMS, and basic and advanced SQL. Focus will be on how data integration is achieved, including the use of standardized schemas, exchange formats and ontologies. We will examine large public biomedical data repositories such as GenBank and PDB, learn how to locate and assess the quality of data in Web-accessible databases, and look at representation, standards and access methods for such databases.
+Credits: 3 Category: Core
+
+BINF 6310 Advanced Statistics for Genomics
+( Dr. Fodor) Spring 2011, Fall 2009
+Prerequisite: BINF 6200 or equivalent. The first half of this course emphasizes canonical linear statistics (t-test, ANOVA, PCA) and their non-parametric equivalents. The second half of the course emphasizes Bayesian statistics and the application of Hidden Markov Models to problems in bioinformatics. Students should have fluency in a high-level programming language (PERL, Java, C# or equivalent) and will be expected, in assignments, to manipulate and analyze large public data sets. The course will utilize the R statistical package with the bioconductor extension.
+Credits: 3 Category: Core Computational
+
+BINF 6311 Biophysical Modeling
+( Dr. Livesay) Fall 2010, Fall 2008
+This course will cover: (a) overview of mechanical force fields; (b) energy minimization; (c) dynamics simulations (molecular and coarse-grained); (d) Monte-Carlo methods; (e) systematic conformational analysis (grid searches); (f) classical representations of electrostatics (Poisson-Boltzmann, Generalized Born and Colombic); (g) free energy decomposition schemes; and (h) hybrid quantum/classical (QM/MM) methods.
+Credits: 3 Category: Elective
+
+BINF 6312 Computational Comparative Genomics
+( Dr. Su) Fall 2008, Fall 2007
+Prerequisite: BINF 6201 or equivalent. This course introduces computational methods for comparative genomics analyses. The course covers the following topics: the architecture of prokaryotic and eukaryotic genomes; the evolutionary concept in genomics; databases and resources for comparative genomics; principles and methods for sequence analysis; evolution of genomes; comparative gene function annotation; evolution of the central metabolic pathways and regulatory networks; genomes and the protein universe; cis-regulatory binding site prediction; operon and regulon predictions in prokaryotes; regulatory network mapping and prediction.
+Credits: 3 Category: Elective
+
+BINF 6313 Structure, Function, and Modeling of Nucleic Acids
+Offered on demand.
+Prerequisite: BINF 6100-6101 or equivalent. The course covers the following topics: atomic structure, macromolecular structure-forming tendencies and dynamics of nucleic acids; identification of genes which code for functional nucleic acid molecules, cellular roles and metabolism of nucleic acids; 2D and 3D abstractions of nucleic acid macromolecules and methods for structural modeling and prediction; modeling of hybridization kinetics and equilibria; hybridization-based molecular biology protocols, detection methods and molecular genetic methods, and the role of modeling in designing these experiments and predicting their outcome.
+Credits: 3 Category: Electives
+
+BINF 6318 Computational Proteomics and Metabolomics
+(Dr. Du) Spring 2011, Offered on demand.
+Prerequisite: BINF 6200 or equivalent.  The aim of this 3-credit course is to introduce commonly used computational algorithms and software tools for analyzing mass spectrometry-based proteomics and metabolomics data. Chromatography and mass spectrometry will be covered at the beginning of the course to provide background information for the students to understand the nature of mass spectrometry data.
+Credits: 3 Category: Electives
+
+BINF 6350 Biotechnology and Genomics Laboratory
+( Dr. Weller, Dr. Schlueter) Fall 2012, Fall 2011, Spring 2010, Fall 2008
+Teaches basic wet-lab techniques commonly used in biotechnology to generate genomics data.  Lectures cover methods for sample isolation, cell disruption, nucleic acid and protein purification, nucleic acid amplification, protein isolation and characterization, molecular labeling methods and commonly used platforms for characterizing genome-wide molecular profiles.  In particular, students discuss and learn to perform: tissue culture and LCM isolation of cells, DNA sequencing methods, DNA fingerprinting methods, RT-qPCR and microarrays of cDNA, 1D and 2D gels for protein separation, protein activity assays, and proteomics platforms.  Lectures describe emerging methodologies and platforms, and discuss the ways in which the wet-lab techniques inform the design and use of bioinformatics tools, and how the tools carry out the processing and filtering that leads to reliable data.  This course also discusses the commercial products beginning to emerge from genomics platforms. 
+Credits: 3 Category: Elective
+
+BINF 6380 Advanced Bioinformatics Programming 
+( Dr. Fodor) Fall 2012, Fall 2011, Fall 2010, Spring 2010
+Pre-requisites: BINF 6112 or equivalent or permission of instructor. Advanced algorithms in bioinformatics with an emphasis placed on the implementation of bioinformatics algorithms in the context of parallel processing.  Topics covered depend on instructor expertise and student interest, but may include assembly of short read fragments from next-generation sequencing platforms, clustering algorithms, machine learning, development of multi-threaded applications, developing for multi-core processors and utilization of large clusters and “cloud” supercomputers.  Students are expected to complete a significant independent project.
+Credits: 3 Category: Elective
+
+BINF 6382 Accelerated Bioinformatics Programming 
+( Dr. Schlueter) Fall 2013
+Pre-requisites: BINF 6112 or equivalent or permission of instructor.  Computationally intensive algorithms in bioinformatics with an emphasis placed on the implementation of bioinformatics algorithms in the context of parallel processing using modern hardware processor accelerators such as GPUs and FPGAs.  Topics covered depend on instructor expertise and student interest but may include multi-threaded applications and developing for multi-core processors and for large clusters and other “cloud” computers.  Students will be expected to complete a significant independent project.
+Credits: 3 Category: Elective
+
+BINF 6400 Internship Project
+( Dr. Gibas) Fall 2012, Fall 2011, Spring 2011, Fall 2010, Spring 2010, Fall 2009, Spring 2009, Fall 2008
+Project chosen and completed under the guidance of an industry partner, which results in an acceptable technical report
+Credits: 3 Category: Research
+
+BINF 6600 Seminar
+( Dr. Mays) Offered Every Semester
+Departmental seminar. Weekly seminars will be given by bioinformatics researchers from within UNC Charlotte and across the world.
+Credits: 1 Category: Seminar
+
+BINF 6601 Journal Club
+Prerequisites: Admission to graduate standing in Bioinformatics. Each week, a student in the class is assigned to choose and present a paper from the primary bioinformatics literature.
+Credits: 1 Category: Seminar
+
+BINF 6880 Independent Study
+(Gibas) Offered on Demand.
+Faculty supervised research experience to supplement regular course offerings.
+Credits: 1-3 Category: Elective
+
+BINF 6900 Master's Thesis
+(Faculty) Offered on demand.
+Project chosen and completed under the guidance of a graduate faculty member, which results in an acceptable master's thesis and oral defense.
+Credits: 3 Category: Research
+
+BINF 8911 Research Rotation I
+(Livesay) Offered every semester.
+Faculty supervised research experience in bioinformatics to supplement regular course offerings. The purpose of this course is to broaden students exposure to state-of-the-art technologies currently being utilized within the field of bioinformatics, and to guide them towards recognizing important, outstanding questions in specific scientific domains, and to give them hands-on training in conducting experiments within those domains.
+Credits: 2 Category: Required
+
+BINF 8912 Research Rotation II
+(Livesay) Offered every semester.
+Faculty supervised research experience in bioinformatics to supplement regular course offerings. The purpose of this course is to broaden students exposure to state-of-the-art technologies currently being utilized within the field of bioinformatics, and to guide them towards recognizing important, outstanding questions in specific scientific domains, and to give them hands-on training in conducting experiments within those domains.
+Credits: 2 Category: Required
+
+BINF 8991 Doctoral Dissertation Research
+(Livesay) Offered Every Semester
+Individual investigation culminating in the preparation and presentation of a doctoral dissertation.
+Credits: 1-9 Category: Required
