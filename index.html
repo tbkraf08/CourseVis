@@ -30,8 +30,6 @@ path.link {
   <body>
     <div id="body">
       <div id="footer">
-        d3.layout.tree
-        <div class="hint">click or option-click to expand or collapse</div>
       </div>
     </div>
     <script type="text/javascript">
@@ -41,9 +39,20 @@ var m = [140, 220, 140, 220],
     h = 2000 - m[0] - m[2],
     i = 0,
     root;
-
+var reccDepth = 3;
 var tree = d3.layout.tree()
     .size([h, w]);
+
+var tooltip = d3.select("body")
+	.append("div")
+	.style("min-width", "300px")
+	.style("min-height", "200px")
+	.style("font", "12px sans-serif")
+	.style("background", "lightblue")
+	.style("border", "2px")
+	.style("border-radius", "8px")
+	.style("position", "absolute")
+	.style("visibility", "hidden")
 
 var diagonal = d3.svg.diagonal()
     .projection(function(d) { return [d.y, d.x]; });
@@ -62,7 +71,6 @@ d3.json("readme.json", function(json) {
   function toggleAll(d) {
     if (d.children) {
       d.children.forEach(toggleAll);
-      toggle(d);
     }
   }
 
@@ -74,6 +82,8 @@ d3.json("readme.json", function(json) {
   // toggle(root.children[9].children[0]);
 
   update(root);
+  initializeAllCourses();
+
 });
 
 function update(source) {
@@ -93,17 +103,66 @@ function update(source) {
   var nodeEnter = node.enter().append("svg:g")
       .attr("class", "node")
       .attr("transform", function(d) { return "translate(" + source.y0 + "," + source.x0 + ")"; })
-      .on("click", function(d) { toggle(d); update(d); });
+      .on("click", function(d) { toggle(d); update(d); })
+		.on("mouseover", hover);
 
+		function hover(d) {
+
+			if(d.name!=null && d.name!='undefined' && d.children!=null)
+			{
+				clearAllChildNodes(root);
+				colorAllChildNodes(d);
+			}
+		}
   nodeEnter.append("svg:circle")
       .attr("r", 1e-6)
-      .style("fill", function(d) { return d._children ? "lightsteelblue" : "#fff"; });
+      .style("fill", function(d) { return d._children ? "lightsteelblue" : "#fff"; })
+      .on("mouseover", function(d)
+      		{
+				if(d.details){
+					var str = "";
+
+					tooltip.html(function(){
+						str = "Details: " + d.details + "<br/>" + "Prerequisites: " + d.prereq + "<br/>" + "Offered: " + d.offered;
+						console.log(str);
+						return str;
+						}
+					)
+						.transition()
+						.duration(200)
+						.style("visibility", "visible");
+						/*.text(function(){
+							str = "Details: " + d.details + "|";
+							str += "Prerequisites: " + d.prereq+ "|";
+							str += "Offered: " + d.offered;
+							return str;
+						});*/
+
+					tooltip.html(d.close)
+						.style("right", (d3.event.pageX - 150) + "px")
+						.style("top", (d3.event.pageY - 50) + "px");
+				}
+      		}
+      	)
+      	.on("mouseout", function(d) {
+
+            if(d.details){
+				tooltip.transition()
+					.duration(500)
+					.style("visibility", "hidden");
+				}
+        	}
+        );
 
   nodeEnter.append("svg:text")
       .attr("x", function(d) { return d.children || d._children ? -10 : 10; })
       .attr("dy", ".35em")
       .attr("text-anchor", function(d) { return d.children || d._children ? "end" : "start"; })
-      .text(function(d) { return d.name; })
+      .text(function(d) { if(!d.children)
+	  {
+
+	  }
+	  return d.name; })
       .style("fill-opacity", 1e-6);
 
   // Transition nodes to their new position.
@@ -175,6 +234,93 @@ function toggle(d) {
     d.children = d._children;
     d._children = null;
   }
+}
+
+function initializeAllCourses() {
+		expandAllCourses(root);
+}
+
+function colorAllChildNodes(d) {
+	//tabulate(d, d.name);
+    if (d.children) {
+      d.children.forEach(colorAllChildNodes);
+    }
+	else
+	{
+		var myDiv = document.getElementById(d.name);
+		//myDiv.style.background = "grey";
+		myDiv.style.color = "blue";
+	}
+  }
+
+  function clearAllChildNodes(d) {
+	//tabulate(d, d.name);
+    if (d.children) {
+      d.children.forEach(clearAllChildNodes);
+    }
+	else
+	{
+		var myDiv = document.getElementById(d.name);
+		myDiv.style.color = "grey";
+	}
+  }
+
+
+function expandAllCourses(d) {
+	//tabulate(d, d.name);
+    if (d.children) {
+      d.children.forEach(expandAllCourses);
+    }
+	else
+	{
+			createDiv(d.name);
+	}
+  }
+function createDiv(myDivID) {
+	var div = document.createElement("div");
+	div.id = myDivID;
+	div.style.background = "white";
+	div.style.color = "grey";
+	div.innerHTML = myDivID;
+	div.style.fontSize = "12px";
+	div.style.align = "left";
+	var myFooter = document.getElementById("footer");
+		myFooter.style.marginTop = "-535px";
+	myFooter.appendChild(div);
+}
+function tabulate(data, columns) {
+		var table = d3.select("table")
+        thead = table.append("thead")
+        tbody = table.append("tbody");
+
+    // append the header row
+    thead.append("tr")
+        .selectAll("th")
+        .data(columns)
+        .enter()
+        .append("th")
+            .text(function(column) { return column; });
+
+    // create a row for each object in the data
+    var rows = tbody.selectAll("tr")
+        .data(data)
+        .enter()
+        .append("tr");
+
+    // create a cell in each row for each column
+    var cells = rows.selectAll("td")
+        .data(function(row) {
+            return columns.map(function(column) {
+                return {column: column, value: row[column]};
+            });
+        })
+        .enter()
+        .append("td")
+        .attr("style", "font-family: Courier")
+        .html(function(d) { return d.value; })
+        .on("mouseover",function(d){console.log(d.value);});
+
+    return table;
 }
 
     </script>
