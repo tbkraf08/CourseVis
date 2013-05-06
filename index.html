@@ -122,21 +122,21 @@ function update(source) {
 				if(d.details){
 					var str = "";
 
-					tooltip.html(function(){
+					/*tooltip.html(function(){
 						str = "Details: " + d.details + "<br/>" + "Prerequisites: " + d.prereq + "<br/>" + "Offered: " + d.offered;
 						console.log(str);
 						return str;
 						}
-					)
-						.transition()
+					)*/
+						tooltip.transition()
 						.duration(200)
-						.style("visibility", "visible");
-						/*.text(function(){
+						.style("visibility", "visible")
+						.text(function(){
 							str = "Details: " + d.details + "|";
 							str += "Prerequisites: " + d.prereq+ "|";
 							str += "Offered: " + d.offered;
 							return str;
-						});*/
+						});
 
 					tooltip.html(d.close)
 						.style("right", (d3.event.pageX - 150) + "px")
